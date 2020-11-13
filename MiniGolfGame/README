@@ -1,0 +1,12 @@
+MiniGolfGame is meant to mimic real-life mini golf.
+Players can adjust the direction and magnitude at which
+they launch the ball and must overcome moving/static obstacles
+as well as wind to get to the goal. Within each round, the ball can
+be reset to its original spot with a right click. The objective
+is to go through all the rounds with the least number of attempts.
+
+Credits:
+ball.png was obtained from PNG All
+arrow.png was obtained from kindpng
+bounce.wav and golf clap.wav were provided through services
+belonging to the Toronto District School Board
