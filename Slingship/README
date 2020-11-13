@@ -1,0 +1,22 @@
+Slingship is a variation on space golf.
+The objective is to launch a ball such
+that it reaches a target. In the way are
+planetary bodies, each exerting a gravitational
+force on the ball. On some levels, there are also
+power-ups which mainly involve acceleration boosts.
+Thus, it requires great precision to shoot the ball
+in a direction such that with the influence of all these
+external forces it follows a trajectory that ends up
+at the target.
+
+To play, simply aim and left click.
+At each round, the ball position can
+be reset with a right mouse click.
+Note: there are discrepancies between systems on how turtle
+graphics reads in a right click. If right click is not working
+please replace line 300 with
+
+screen.onclick(reset_handler, 3)
+
+Credit:
+bg.png obtained from freevector.com
